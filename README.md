@@ -293,6 +293,7 @@ HAVING COUNT(*) > 1;
 ## 📊 Power BI — Reporting
 
 ### Pages du dashboard
+<img width="1087" height="610" alt="image" src="https://github.com/user-attachments/assets/63b72b17-a789-4ae7-a953-8b1405fa6930" />
 
 | Page | Description | Visuels |
 |---|---|---|
@@ -327,7 +328,7 @@ Net Income = [EBITDA] + [Financial]
 | Nb transactions | 20 000 |
 | Nb magasins | 7 |
 
----
+
 
 ## 🛠️ Outils utilisés
 
